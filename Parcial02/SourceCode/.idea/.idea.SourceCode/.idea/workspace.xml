@@ -1,34 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f8d16d0-4c9e-4439-bd90-50db72dc9f3f" name="Default Changelist" comment="" />
+    <list default="true" id="6f8d16d0-4c9e-4439-bd90-50db72dc9f3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SourceCode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SourceCode/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SourceCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SourceCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vista/frmPrincipal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vista/frmPrincipal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/SourceCode.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/SourceCode.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/SourceCode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/SourceCode.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/SourceCode.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/SourceCode.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/SourceCode.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/SourceCode.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/SourceCode.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/SourceCode.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/SourceCode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/SourceCode.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Vista/frmPrincipal.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vista/frmPrincipal.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Modelo/Adress.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD1B6EA4-F54D-4146-A29C-2A12CD6EC436/c3/459390cc/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Modelo/AppOrderDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vista/frmCambiarContra.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/BusinessDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/AdressDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/ProductDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/frmPrincipal.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/ConexionDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD1B6EA4-F54D-4146-A29C-2A12CD6EC436/c3/459390cc/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Modelo/AppUserDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/Business.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/BusinessDAO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Controlador/Encriptador.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/Product.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/AppOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/frmCambiarContra.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/frmPrincipal.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vista/frmCambiarContra.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vista/frmInicioSesion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/frmPrincipal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frmPrincipal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vista/frmInicioSesion.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/frmInicioSesion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/AppOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/AdressDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/ProductDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/ConexionDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/Business.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,18 +59,19 @@
         <option value="$PROJECT_DIR$/Vista/frmPrincipal.Designer.cs" />
         <option value="$PROJECT_DIR$/Vista/frmCambiarContra.cs" />
         <option value="$PROJECT_DIR$/Vista/frmInicioSesion.cs" />
-        <option value="$PROJECT_DIR$/Modelo/AppUser.cs" />
-        <option value="$PROJECT_DIR$/Modelo/AppUserDAO.cs" />
         <option value="$PROJECT_DIR$/Modelo/AppOrder.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD1B6EA4-F54D-4146-A29C-2A12CD6EC436/c3/459390cc/ExceptionDispatchInfo.cs" />
         <option value="$PROJECT_DIR$/Modelo/ConexionDB.cs" />
         <option value="$PROJECT_DIR$/Modelo/AppOrderDAO.cs" />
         <option value="$PROJECT_DIR$/Modelo/AdressDAO.cs" />
+        <option value="$PROJECT_DIR$/Modelo/AppUser.cs" />
+        <option value="$PROJECT_DIR$/Modelo/AppUserDAO.cs" />
         <option value="$PROJECT_DIR$/Vista/frmPrincipal.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1cUuaWIH7FRtFhbg9tUpjMiKVsu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,6 +80,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -100,6 +115,8 @@
       <updated>1590595569382</updated>
       <workItem from="1590595577238" duration="58808000" />
       <workItem from="1590657852868" duration="9488000" />
+      <workItem from="1590869275288" duration="8668000" />
+      <workItem from="1590952840434" duration="2300000" />
     </task>
     <servers />
   </component>
@@ -109,22 +126,22 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1590664673789">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1590887431461">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590664673789" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1590664673789">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590887431461" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1590887431461">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590664673789" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1590664673789">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590887431461" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1590887431460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590664673789" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1590664673789">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590887431460" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1590887431461">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590664673789" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590887431461" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590658311431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

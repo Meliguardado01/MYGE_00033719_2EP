@@ -63,9 +63,8 @@ namespace SourceCode.Vista
            
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = lista;
-           
+
             comboBox1.DataSource = null;
-            comboBox1.ValueMember = "password";
             comboBox1.DisplayMember = "iduser";
             comboBox1.DataSource = lista;
 
