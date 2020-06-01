@@ -37,20 +37,17 @@ namespace Preparcial.Vista
 
           private void Button1_Click(object sender, EventArgs e)
           {
-              //CORRECCION: Agregar en el if una validacion para evitar que la contraseña quede vacia.
-              if (txtOldPassword.Text.Equals(comboBox1.SelectedValue.ToString()) && txtNewPassword.Text.Length > 0)
-              {
-                  
-                  var obtenerUsuario = (Usuario) comboBox1.SelectedItem;
+           if (txtOldPassword.Text.Equals(comboBox1.SelectedValue.ToString()))
+              {       
+                  var obtenerUsuario = (Usuario)comboBox1.SelectedItem;
 
                   ActualizarControlers();
-
-
-                  ControladorUsuario.ActualizarContrasena(obtenerUsuario.IdUsuario, txtNewPassword.Text);
+                
+                  ControladorUsuario.ActualizarContrasena(obtenerUsuario.IdUsuario,
+                      txtNewPassword.Text);
               }
-
               else
-                      MessageBox.Show("Contrasena actual incorrecta");
+                  MessageBox.Show("Contrasena actual incorrecta");
               
           }
     }
